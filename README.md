@@ -1,1 +1,1 @@
-This a loan decisioning app that helps user to decide which of the loan products is most cost effective and give justification as to while the product is the best. The code was built in python and deployed using streamlite.
+This a loan decisioning app that helps the users to decide which of the loan products is the most cost-effective and give justification as to which product is the best. The code was built in Python and deployed using Streamlite.
